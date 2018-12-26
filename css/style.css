@@ -49,7 +49,7 @@ li    {
 
 
   .parallax {
-    /* The image used */
+
                background-image: url("../images/building.jpg");
                background-attachment: fixed;
                min-height: 620px;    
